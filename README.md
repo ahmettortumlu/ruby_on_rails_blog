@@ -4,7 +4,7 @@ At this application i created a blog using Ruby on Rails.
 
 My main reference was : Mackenziechild's youtube video series which implementing blog application. You can reach this series link from : https://www.youtube.com/watch?v=nRyUn7D8zCc&list=PLqGj3iMvMa4JiH5mEBG4GNHWdC2u9xdzF&index=1
 
-This was also my first linux experimantal application and while comparing versus windows, Ubuntu was very simple to use and i encountered with less problem while importing required pages.
+This app was also my first linux experimantal application and while comparing versus windows, Ubuntu was very simple to use and i encountered with less problem while importing required packs.
 
 
 If you are new at Ruby on Rails like me, you  can use this link to installation for Ruby on Rails, it helped me without an error(using ubuntu 16.04): https://gorails.com/setup
