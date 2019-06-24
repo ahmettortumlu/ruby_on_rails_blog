@@ -27,4 +27,4 @@ What my blog does?
 
 * You can create post, edit and delete posts.
 * Also there are navigation links at the top of the page. Naviggate simply
-* I have home page and you can wee all posts at the home page.
+* I have home page and you can see all posts at the home page.
